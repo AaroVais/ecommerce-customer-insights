@@ -27,7 +27,7 @@ By implementing these actions, we can recapture passive revenue and increase cus
 
 * **Python 3.13**
 * **Data Analysis:** `pandas`, `numpy`
-* **Data Visualization:** `matplotlib`, `seaborn`
+* **Data Visualization:** `matplotlib`
 
 ## 📁 Project Structure
 * `E-commerce Customer Insights Presentation Slides.pdf` Presentation slides for this project.
